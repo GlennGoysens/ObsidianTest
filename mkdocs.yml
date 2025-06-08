@@ -1,6 +1,7 @@
 site_name: Test Wiki
 theme:
   name: material
+docs_dir: .
 nav:
   - Home: index.md
   - Another Page: "This is not a test.md"
