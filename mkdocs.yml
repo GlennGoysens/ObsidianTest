@@ -1,4 +1,4 @@
-site_name: Test Wiki
+site_name: Test Wiki!
 theme:
   name: material
 docs_dir: ./docs
