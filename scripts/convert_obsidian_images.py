@@ -2,7 +2,7 @@ import os
 import re
 
 # Set this to the root of your Obsidian vault or docs folder
-BASE_DIR = "../docs"
+BASE_DIR = "./docs"
 
 # Regex to match Obsidian-style embeds like ![[image.png|300x200]]
 obsidian_img_pattern = re.compile(r'!\[\[([^\|\]]+)\|(\d+)[xX](\d+)\]\]')
