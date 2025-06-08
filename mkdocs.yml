@@ -3,6 +3,8 @@ theme:
   name: material
 docs_dir: docs
 site_dir: site
+markdown_extensions:
+  - attr_list
 nav:
   - Home: index.md
   - Another Page: "This is not a test.md"
