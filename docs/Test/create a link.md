@@ -12,9 +12,6 @@ tabel (Helaas met lege lijn voor de tabel, blijkbaar markdown ding, kan aangepas
 | ---- | ---- |
 | test | test |
 
-
-
-
 link naar welcome pagina
 [Welcome](Welcome.md)
 
