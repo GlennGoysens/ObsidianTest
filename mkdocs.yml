@@ -1,7 +1,7 @@
 site_name: Test Wiki!
 theme:
   name: material
-docs_dir: docs
+docs_dir: .
 site_dir: site
 markdown_extensions:
   - attr_list
