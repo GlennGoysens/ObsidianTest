@@ -16,7 +16,12 @@ link naar welcome pagina
 
 [Welcome](Welcome.md)
 
+inline math:  
+$E=mc^2$
 
-
-
-
+block math:  
+$$
+E = mc^2
+$$
+Greek symbol using inline math (and therefore LateX) $\alpha$  
+Using emojis: ✅ (with a plugin)

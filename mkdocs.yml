@@ -7,6 +7,8 @@ docs_dir: docs
 site_dir: site
 markdown_extensions:
   - attr_list
+  - pymdownx.arithmatex:
+      generic: true
 nav:
   - Home: index.md
   - Another Page: "This is not a test.md"
@@ -17,3 +19,5 @@ nav:
       - 'original welcom': "Test/Welcome.md"
 extra_css:
   - styles/extra.css
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
