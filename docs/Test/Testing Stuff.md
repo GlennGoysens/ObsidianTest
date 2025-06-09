@@ -24,4 +24,3 @@ $$
 E = mc^2
 $$
 Greek symbol using inline math (and therefore LateX) $\alpha$  
-Using emojis: ✅ (with a plugin)

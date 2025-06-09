@@ -15,7 +15,7 @@ nav:
   - Yet Another Page: "This is another test.md"
   - Test:
       - 'Overview': "Test/index.md"
-      - 'testing stuff': "Test/create a link.md"
+      - 'testing stuff': "Test/Testing Stuff.md"
       - 'original welcom': "Test/Welcome.md"
 extra_css:
   - styles/extra.css
