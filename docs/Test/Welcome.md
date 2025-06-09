@@ -7,4 +7,4 @@ Make a note of something, [[Testing Stuff]], or try [the Importer](https://help.
 
 When you're ready, delete this note and make the vault your own.
 
-
+Adding some text
