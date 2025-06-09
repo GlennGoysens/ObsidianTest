@@ -1,0 +1,17 @@
+/* Make the content area wider */
+.md-grid {
+  max-width: 100% !important;
+}
+
+/* Optional: reduce padding on sidebars */
+.md-sidebar--primary {
+  margin-left: 0;
+}
+.md-sidebar--secondary {
+  margin-right: 0;
+}
+
+/* Optional: increase main content width */
+.md-main__inner {
+  max-width: 90% !important;  /* or 95%, tweak to your liking */
+}
