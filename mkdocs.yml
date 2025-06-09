@@ -1,6 +1,8 @@
 site_name: Test Wiki!
 theme:
-  name: readthedocs
+  name: material
+  features:
+    - toc.integrate
 docs_dir: docs
 site_dir: site
 markdown_extensions:
@@ -15,5 +17,7 @@ nav:
       - 'Overview': "Test/index.md"
       - 'testing stuff': "Test/Testing Stuff.md"
       - 'original welcom': "Test/Welcome.md"
+extra_css:
+  - styles/extra.css
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
